@@ -1,0 +1,17 @@
+{
+  "name": "prodigy_wd_05-main",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/Saivignesh16/PRODIGY_WD_05/assets/103402939/4ab687b2-be17-439c-a8a8-440fd34df6ef)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "lite-server"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
